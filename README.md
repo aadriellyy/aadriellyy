@@ -16,6 +16,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-DD0031?style=for-the-badge&logo=react&logoColor=white)
+![Python](https://img.shields.io/badge/Python-DD0031?style=for-the-badge&logo=python&logoColor=white)
 
 
 ## 🌐 Vamos nos conectar?
